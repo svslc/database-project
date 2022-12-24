@@ -21,7 +21,7 @@ Use Data Manipulation Language (DML) syntax to fill the tables in database syste
 Use Data Manipulation Language (DML) syntax to simulate the transactions process for sales and purchase transactions.
 
 ### 5. Queries
-Provide queries to answer the user requests of the software house data 
+Provide queries to answer 10 cases of user requests of the software house data 
 
 
 
